@@ -1,6 +1,6 @@
-# Hi 👋 I'm DaDio 
+# Hi 👋 I'm CapyPola 
 
-##  [🚀 My Blog](https://dadio.cc) ✨ [My Email ](mailto:1477017264@qq.com)
+##  [🚀 My Blog](https://1477017264.github.io/) ✨ [My Email ](mailto:1477017264@qq.com)
 
 <div align=center>
 <a href="https://github.com/1477017264">
